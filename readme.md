@@ -1,9 +1,9 @@
 # Exam track
 
-1️⃣ Start by creating a new wallet
-2️⃣ Perform an airdrop to interact with Solana
-3️⃣ Create a mint and mint some fungible tokens
-4️⃣ To finish, transfer these tokens to a new wallet
+- 1️⃣ Start by creating a new wallet
+- 2️⃣ Perform an airdrop to interact with Solana
+- 3️⃣ Create a mint and mint some fungible tokens
+- 4️⃣ To finish, transfer these tokens to a new wallet
 
 # Create wallet
 
